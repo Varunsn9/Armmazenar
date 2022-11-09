@@ -35,4 +35,10 @@ public class TitlesTest extends BaseClass {
 		String title=driver.getTitle();
 		Assert.assertTrue(title.contains("Administrator - Contacts - vtiger CRM 5 - Commercial Open Source CRM"));
 	}
+	public void opportunities() {
+		hp=new HomePage(driver);
+		hp.opportunities(driver);
+		String title=driver.getTitle();
+		Assert.assertTrue(title.contains("Administrator - Contacts - vtiger CRM 5 - Commercial Open Source CRM"));
+	}
 }
