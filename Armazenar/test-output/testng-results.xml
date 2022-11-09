@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="39862" started-at="2022-11-09T10:41:16 IST" finished-at="2022-11-09T10:41:56 IST">
+    <groups>
+    </groups>
+    <test name="Chrome" duration-ms="36865" started-at="2022-11-09T10:41:16 IST" finished-at="2022-11-09T10:41:53 IST">
+      <class name="Titles.TitlesTest">
+        <test-method status="PASS" signature="OpenBrowser(java.lang.String)[pri:0, instance:Titles.TitlesTest@687080dc]" name="OpenBrowser" is-config="true" duration-ms="3452" started-at="2022-11-09T10:41:16 IST" finished-at="2022-11-09T10:41:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:Titles.TitlesTest@687080dc]" name="Login" is-config="true" duration-ms="3568" started-at="2022-11-09T10:41:20 IST" finished-at="2022-11-09T10:41:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="contacts()[pri:0, instance:Titles.TitlesTest@687080dc]" name="contacts" duration-ms="4724" started-at="2022-11-09T10:41:23 IST" finished-at="2022-11-09T10:41:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contacts -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:Titles.TitlesTest@687080dc]" name="Logout" is-config="true" duration-ms="1601" started-at="2022-11-09T10:41:28 IST" finished-at="2022-11-09T10:41:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:Titles.TitlesTest@687080dc]" name="Login" is-config="true" duration-ms="2222" started-at="2022-11-09T10:41:29 IST" finished-at="2022-11-09T10:41:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="homePageTitle()[pri:0, instance:Titles.TitlesTest@687080dc]" name="homePageTitle" duration-ms="19" started-at="2022-11-09T10:41:32 IST" finished-at="2022-11-09T10:41:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTitle -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:Titles.TitlesTest@687080dc]" name="Logout" is-config="true" duration-ms="4385" started-at="2022-11-09T10:41:32 IST" finished-at="2022-11-09T10:41:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:Titles.TitlesTest@687080dc]" name="Login" is-config="true" duration-ms="2390" started-at="2022-11-09T10:41:36 IST" finished-at="2022-11-09T10:41:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="organizationTitle()[pri:0, instance:Titles.TitlesTest@687080dc]" name="organizationTitle" duration-ms="4853" started-at="2022-11-09T10:41:38 IST" finished-at="2022-11-09T10:41:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- organizationTitle -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:Titles.TitlesTest@687080dc]" name="Logout" is-config="true" duration-ms="1275" started-at="2022-11-09T10:41:43 IST" finished-at="2022-11-09T10:41:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:Titles.TitlesTest@687080dc]" name="Login" is-config="true" duration-ms="2115" started-at="2022-11-09T10:41:45 IST" finished-at="2022-11-09T10:41:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="sMSNotifier()[pri:0, instance:Titles.TitlesTest@687080dc]" name="sMSNotifier" duration-ms="4081" started-at="2022-11-09T10:41:47 IST" finished-at="2022-11-09T10:41:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sMSNotifier -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:Titles.TitlesTest@687080dc]" name="Logout" is-config="true" duration-ms="1939" started-at="2022-11-09T10:41:51 IST" finished-at="2022-11-09T10:41:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Titles.TitlesTest@687080dc]" name="closeBrowser" is-config="true" duration-ms="172" started-at="2022-11-09T10:41:53 IST" finished-at="2022-11-09T10:41:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Titles.TitlesTest -->
+    </test> <!-- Chrome -->
+    <test name="Opera" duration-ms="37349" started-at="2022-11-09T10:41:16 IST" finished-at="2022-11-09T10:41:53 IST">
+      <class name="Titles.TitlesTest">
+        <test-method status="PASS" signature="OpenBrowser(java.lang.String)[pri:0, instance:Titles.TitlesTest@2db7a79b]" name="OpenBrowser" is-config="true" duration-ms="3785" started-at="2022-11-09T10:41:16 IST" finished-at="2022-11-09T10:41:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[opera]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:Titles.TitlesTest@2db7a79b]" name="Login" is-config="true" duration-ms="3048" started-at="2022-11-09T10:41:20 IST" finished-at="2022-11-09T10:41:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="contacts()[pri:0, instance:Titles.TitlesTest@2db7a79b]" name="contacts" duration-ms="5435" started-at="2022-11-09T10:41:23 IST" finished-at="2022-11-09T10:41:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contacts -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:Titles.TitlesTest@2db7a79b]" name="Logout" is-config="true" duration-ms="1360" started-at="2022-11-09T10:41:28 IST" finished-at="2022-11-09T10:41:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:Titles.TitlesTest@2db7a79b]" name="Login" is-config="true" duration-ms="2471" started-at="2022-11-09T10:41:30 IST" finished-at="2022-11-09T10:41:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="homePageTitle()[pri:0, instance:Titles.TitlesTest@2db7a79b]" name="homePageTitle" duration-ms="14" started-at="2022-11-09T10:41:32 IST" finished-at="2022-11-09T10:41:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTitle -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:Titles.TitlesTest@2db7a79b]" name="Logout" is-config="true" duration-ms="4299" started-at="2022-11-09T10:41:32 IST" finished-at="2022-11-09T10:41:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:Titles.TitlesTest@2db7a79b]" name="Login" is-config="true" duration-ms="2585" started-at="2022-11-09T10:41:37 IST" finished-at="2022-11-09T10:41:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="organizationTitle()[pri:0, instance:Titles.TitlesTest@2db7a79b]" name="organizationTitle" duration-ms="4632" started-at="2022-11-09T10:41:39 IST" finished-at="2022-11-09T10:41:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- organizationTitle -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:Titles.TitlesTest@2db7a79b]" name="Logout" is-config="true" duration-ms="1117" started-at="2022-11-09T10:41:44 IST" finished-at="2022-11-09T10:41:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:Titles.TitlesTest@2db7a79b]" name="Login" is-config="true" duration-ms="2314" started-at="2022-11-09T10:41:45 IST" finished-at="2022-11-09T10:41:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="sMSNotifier()[pri:0, instance:Titles.TitlesTest@2db7a79b]" name="sMSNotifier" duration-ms="4171" started-at="2022-11-09T10:41:47 IST" finished-at="2022-11-09T10:41:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sMSNotifier -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:Titles.TitlesTest@2db7a79b]" name="Logout" is-config="true" duration-ms="1880" started-at="2022-11-09T10:41:51 IST" finished-at="2022-11-09T10:41:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Titles.TitlesTest@2db7a79b]" name="closeBrowser" is-config="true" duration-ms="207" started-at="2022-11-09T10:41:53 IST" finished-at="2022-11-09T10:41:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Titles.TitlesTest -->
+    </test> <!-- Opera -->
+    <test name="Edge" duration-ms="38418" started-at="2022-11-09T10:41:16 IST" finished-at="2022-11-09T10:41:54 IST">
+      <class name="Titles.TitlesTest">
+        <test-method status="PASS" signature="OpenBrowser(java.lang.String)[pri:0, instance:Titles.TitlesTest@4a87761d]" name="OpenBrowser" is-config="true" duration-ms="4458" started-at="2022-11-09T10:41:16 IST" finished-at="2022-11-09T10:41:21 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:Titles.TitlesTest@4a87761d]" name="Login" is-config="true" duration-ms="3389" started-at="2022-11-09T10:41:21 IST" finished-at="2022-11-09T10:41:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="contacts()[pri:0, instance:Titles.TitlesTest@4a87761d]" name="contacts" duration-ms="5066" started-at="2022-11-09T10:41:24 IST" finished-at="2022-11-09T10:41:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contacts -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:Titles.TitlesTest@4a87761d]" name="Logout" is-config="true" duration-ms="1314" started-at="2022-11-09T10:41:29 IST" finished-at="2022-11-09T10:41:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:Titles.TitlesTest@4a87761d]" name="Login" is-config="true" duration-ms="2619" started-at="2022-11-09T10:41:30 IST" finished-at="2022-11-09T10:41:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="homePageTitle()[pri:0, instance:Titles.TitlesTest@4a87761d]" name="homePageTitle" duration-ms="10" started-at="2022-11-09T10:41:33 IST" finished-at="2022-11-09T10:41:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTitle -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:Titles.TitlesTest@4a87761d]" name="Logout" is-config="true" duration-ms="4065" started-at="2022-11-09T10:41:33 IST" finished-at="2022-11-09T10:41:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:Titles.TitlesTest@4a87761d]" name="Login" is-config="true" duration-ms="2676" started-at="2022-11-09T10:41:37 IST" finished-at="2022-11-09T10:41:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="organizationTitle()[pri:0, instance:Titles.TitlesTest@4a87761d]" name="organizationTitle" duration-ms="4588" started-at="2022-11-09T10:41:40 IST" finished-at="2022-11-09T10:41:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- organizationTitle -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:Titles.TitlesTest@4a87761d]" name="Logout" is-config="true" duration-ms="1258" started-at="2022-11-09T10:41:44 IST" finished-at="2022-11-09T10:41:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:Titles.TitlesTest@4a87761d]" name="Login" is-config="true" duration-ms="2649" started-at="2022-11-09T10:41:46 IST" finished-at="2022-11-09T10:41:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="sMSNotifier()[pri:0, instance:Titles.TitlesTest@4a87761d]" name="sMSNotifier" duration-ms="4903" started-at="2022-11-09T10:41:48 IST" finished-at="2022-11-09T10:41:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sMSNotifier -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:Titles.TitlesTest@4a87761d]" name="Logout" is-config="true" duration-ms="1239" started-at="2022-11-09T10:41:53 IST" finished-at="2022-11-09T10:41:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Titles.TitlesTest@4a87761d]" name="closeBrowser" is-config="true" duration-ms="159" started-at="2022-11-09T10:41:54 IST" finished-at="2022-11-09T10:41:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Titles.TitlesTest -->
+    </test> <!-- Edge -->
+    <test name="FireFox" duration-ms="39862" started-at="2022-11-09T10:41:16 IST" finished-at="2022-11-09T10:41:56 IST">
+      <class name="Titles.TitlesTest">
+        <test-method status="PASS" signature="OpenBrowser(java.lang.String)[pri:0, instance:Titles.TitlesTest@74ad1f1f]" name="OpenBrowser" is-config="true" duration-ms="7166" started-at="2022-11-09T10:41:16 IST" finished-at="2022-11-09T10:41:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:Titles.TitlesTest@74ad1f1f]" name="Login" is-config="true" duration-ms="2926" started-at="2022-11-09T10:41:23 IST" finished-at="2022-11-09T10:41:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="contacts()[pri:0, instance:Titles.TitlesTest@74ad1f1f]" name="contacts" duration-ms="4789" started-at="2022-11-09T10:41:26 IST" finished-at="2022-11-09T10:41:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contacts -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:Titles.TitlesTest@74ad1f1f]" name="Logout" is-config="true" duration-ms="1487" started-at="2022-11-09T10:41:31 IST" finished-at="2022-11-09T10:41:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:Titles.TitlesTest@74ad1f1f]" name="Login" is-config="true" duration-ms="2445" started-at="2022-11-09T10:41:32 IST" finished-at="2022-11-09T10:41:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="homePageTitle()[pri:0, instance:Titles.TitlesTest@74ad1f1f]" name="homePageTitle" duration-ms="7" started-at="2022-11-09T10:41:35 IST" finished-at="2022-11-09T10:41:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTitle -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:Titles.TitlesTest@74ad1f1f]" name="Logout" is-config="true" duration-ms="3960" started-at="2022-11-09T10:41:35 IST" finished-at="2022-11-09T10:41:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:Titles.TitlesTest@74ad1f1f]" name="Login" is-config="true" duration-ms="2483" started-at="2022-11-09T10:41:39 IST" finished-at="2022-11-09T10:41:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="organizationTitle()[pri:0, instance:Titles.TitlesTest@74ad1f1f]" name="organizationTitle" duration-ms="4364" started-at="2022-11-09T10:41:41 IST" finished-at="2022-11-09T10:41:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- organizationTitle -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:Titles.TitlesTest@74ad1f1f]" name="Logout" is-config="true" duration-ms="1291" started-at="2022-11-09T10:41:46 IST" finished-at="2022-11-09T10:41:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:Titles.TitlesTest@74ad1f1f]" name="Login" is-config="true" duration-ms="2979" started-at="2022-11-09T10:41:47 IST" finished-at="2022-11-09T10:41:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="sMSNotifier()[pri:0, instance:Titles.TitlesTest@74ad1f1f]" name="sMSNotifier" duration-ms="4482" started-at="2022-11-09T10:41:50 IST" finished-at="2022-11-09T10:41:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sMSNotifier -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:Titles.TitlesTest@74ad1f1f]" name="Logout" is-config="true" duration-ms="953" started-at="2022-11-09T10:41:54 IST" finished-at="2022-11-09T10:41:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Titles.TitlesTest@74ad1f1f]" name="closeBrowser" is-config="true" duration-ms="506" started-at="2022-11-09T10:41:55 IST" finished-at="2022-11-09T10:41:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Titles.TitlesTest -->
+    </test> <!-- FireFox -->
+  </suite> <!-- Suite -->
+</testng-results>
